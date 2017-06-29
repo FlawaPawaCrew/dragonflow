@@ -5,3 +5,7 @@ Requested:
 - ROS kinetic
 - MAVROS
 - vrpn_client_ROS
+
+Installation:
+- Clone the dragonflow_posctrl directory in ~/catkin_ws/src
+- In /catkin_ws, run $catkin_make
