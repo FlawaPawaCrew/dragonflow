@@ -1,0 +1,8 @@
+<launch>
+
+  <group ns="droneCommand">
+    <node pkg="dragonflow_posctrl" name="pos_command_in" type="pos_command_in.py"/>
+    <node pkg="dragonflow_posctrl" name="manual_input" type="manual_input.py"/>
+  </group
+
+</launch>
