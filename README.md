@@ -9,3 +9,8 @@ Requested:
 Installation:
 - Clone the dragonflow_posctrl directory in ~/catkin_ws/src
 - In /catkin_ws, run $catkin_make
+
+- copy launch tracking.sh wherever you want.
+
+Usage
+- run $bash /<path>/<to>/<file>/launch_tracking.sh
