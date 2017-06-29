@@ -13,4 +13,4 @@ Installation:
 - copy launch tracking.sh wherever you want.
 
 Usage
-- run $bash /<path>/<to>/<file>/launch_tracking.sh
+- run $bash /'<path>'/'<to>'/<'file>'/launch_tracking.sh
